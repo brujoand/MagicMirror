@@ -9,6 +9,7 @@ var translations = {
 	"en" : "translations/en.json",
 	"nl" : "translations/nl.json",
 	"de" : "translations/de.json",
+	"nb" : "translations/nb.json",
 	"fr" : "translations/fr.json",
 	"fy" : "translations/fy.json",
 	"es" : "translations/es.json",
